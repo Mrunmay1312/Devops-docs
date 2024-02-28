@@ -1,0 +1,41 @@
+
+1.Explain Kubernetes architecture.
+2.Explain Service accounts in kubernetes.
+3.Explain Ingress.
+4.What is the difference between Ingress and ClusterIp.
+5.Kubernetes manifest.
+6.How can we schedule a pod on a particular node?
+7.If we have a node selctor defined for a pod and that node is out of resources. What will happen?
+8.How does pods communicate with each other.
+9.How to do you manage secrets in kubernetes.
+10.Which file is required to login to kubernetes cluster?
+11.Writing a docker file.
+12.What is docker volume? And what are its types.
+13.Explain layers in Docker image.
+14.Which user does docker use?
+15.What is interactive mode in docker?
+16.How to pull docker images from a private repository?
+17.How to see the file system of the running container?
+18.Which type of authorization does a pem file have (public/private)?
+19.How to connect to an instance if the pem file gets deleted?
+20.What is cloudfront?
+21.How can we get inside master node in EKS?
+22.Difference in steps while creating public and private subnets.
+23.How do an instance in one vpc can communicate with instance in other vpc?
+24.Flow of communication to a instance in private subnet.
+25.How can we shift an entire vpc with resources from one region to another region?
+26.Types of loadbalancer in AWS.
+27.If an EC2 instance have two different users and one of the user terminates the instance, How to check which user has terminated that?
+28.Can we push data/files to S3 bucket if it has deny all rule?
+29.How can we execute or skip any particular task in ansible playbook?
+30.Explain pipelines created till now.
+31.Matrix based authorization in Jenkins.
+32.How can we merge 4th commit from a particular branch to our working branch?
+33.What are merge conflicts? And how to resolve them?
+34.Explain the need of local repo, staging repo and central repo. 
+35.How can we run a pod in all of the worker nodes?
+36.What is node affinity?
+37.Difference between taints, tolerances and node affinity?
+38.Helm package and helm charts
+39.How to you authenticate to docker hub?
+40.Difference between docker run and docker create.
